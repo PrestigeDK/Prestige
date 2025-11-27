@@ -1,6 +1,6 @@
 # 👋 About Me
 
-**IT-technologist student Business Academy Copenhagen**, focusing on **embedded systems, homelab infrastructure, and cybersecurity fundamentals**.  
+**IT-technologist student at Business Academy Copenhagen**, focusing on **embedded systems, homelab infrastructure, and cybersecurity fundamentals**.  
 I build practical systems — from microcontroller-based IoT prototypes to a fully managed home server environment.
 
 ---
