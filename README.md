@@ -26,7 +26,7 @@ I build practical systems — from microcontroller-based IoT prototypes to a ful
 ---
 
 ## 🛠 Tech I Use
-**Languages:** C/C++, Python/Micro Python, Bash  
+**Languages:** C/C++, Python/MicroPython, Bash  
 **Hardware:** ESP32, Raspberry Pi, MCU-based prototypes  
 **Tools:** Docker, Debian/Ubuntu, Git, VS Code  
 **Cloud/Networking:** Cloudflare, DDNS, WireGuard, SSH, VLANs
@@ -42,7 +42,7 @@ ESP32 system with speed, distance, and sensor telemetry. LCD + LED feedback and 
 Linux server running Docker (Jellyfin, Minecraft, utilities), reverse proxy setup, dynamic DNS, and segmented network design.
 
 ### **Traffic Light Controller**
-Microcontroller project handling accurate timing, button input, and state transitions using C++.
+Microcontroller project handling accurate timing, button input, and state transitions using MicroPython.
 
 ---
 
