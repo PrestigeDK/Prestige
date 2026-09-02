@@ -13,7 +13,7 @@
 
 ### Featured Projects
 
-#### [VulnScanner CLI](https://github.com/<PrestigeDK>/vuln-scanner)
+#### [VulnScanner CLI](https://github.com/PrestigeDK/vuln-scanner)
 An asynchronous CLI security tool for port scanning and automated CVE lookups via the NIST NVD API v2.
 - **Tech:** Python 3.12+, `asyncio`, `httpx`, Docker, GitHub Actions CI, `pytest`, `Ruff`.
 - **Key Features:** CVSS score filtering (`--min-score`), HTML/JSON report exports (`--output`), NVD API key support, and containerized deployment.
