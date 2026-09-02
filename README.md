@@ -1,64 +1,45 @@
-# About Me
+# Hi, I'm Filip Pedersen!
 
-**IT-technologist student at Business Academy Copenhagen**, focusing on **embedded systems, homelab infrastructure, and cybersecurity fundamentals**.
-
-I build practical systems — from microcontroller-based IoT prototypes to a fully managed home server environment.
-
----
-
-## What I Work On
-
-* **Embedded & IoT Development**
-	+ ESP32, sensors, GPIO, I²C/SPI
-	+ LCD/NeoPixel displays
-	+ Real-time logic and data handling
-
-* **Homelab & Network Operations**
-	+ **Infrastructure:** Linux (Debian) server administration & Docker containerization
-	+ **Networking:** VPN tunneling (Tailscale Subnet Routing), DNS Sinkholing (Pi-hole), and VLANs
-	+ **Monitoring:** Real-time service uptime tracking and dashboarding
-
-* **Cybersecurity**
-	+ IT-technolog with security focus
-	+ Network hardening, access control lists (ACLs), and secure remote access
-	+ Understanding real-world attack surfaces and defenses
+**IT-Technologist Student at Business Academy Copenhagen (EK/KEA)**  
+*Cybersecurity • DevOps • Embedded Systems & Edge Infrastructure*
 
 ---
 
-## Tech I Use
+### Skills & Technologies
 
-**Languages:** Python/MicroPython, Bash, YAML, C/C++
-
-**Hardware:** ESP32, Raspberry Pi 4, MCU-based prototypes
-
-**Infrastructure & Tools:**
-* **Containerization:** Docker, Portainer, Watchtower
-* **Networking:** Tailscale (VPN), Pi-hole (DNS/DHCP), Cloudflare
-* **Monitoring:** Uptime Kuma, Flightradar24 (ADS-B), Homepage
+![Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,docker,githubactions,linux,nginx,cloudflare,flask,raspberrypi&perline=6)
 
 ---
 
-## Selected Projects
+### Featured Projects
 
-### **Raspberry Pi Network Guardian (HomeLab)**
-A fully automated, headless Raspberry Pi 4 server acting as the network's central monitoring and security hub.
-* **Network Security:** Implemented **Pi-hole** for network-wide ad-blocking and privacy protection.
-* **Remote Access:** Configured **Tailscale Subnet Routing** to allow secure, seamless access to local services from anywhere without opening ports.
-* **Monitoring:** Running **Uptime Kuma** to track uptime of critical services (ISP, Cloudflare, local endpoints) with automated alerts.
-* **Data Feeder:** Hosting a **Flightradar24** ADS-B feeder contributing real-time flight data.
-* **Dashboard:** Centralized management via **Homepage**, pulling live API stats from Pi-hole and Docker containers.
-* **Maintenance:** Automated updates via **Watchtower** and Unattended Upgrades.
+#### [VulnScanner CLI](https://github.com/<YOUR_GITHUB_USERNAME>/vuln-scanner)
+An asynchronous CLI security tool for port scanning and automated CVE lookups via the NIST NVD API v2.
+- **Tech:** Python 3.12+, `asyncio`, `httpx`, Docker, GitHub Actions CI, `pytest`, `Ruff`.
+- **Key Features:** CVSS score filtering (`--min-score`), HTML/JSON report exports (`--output`), NVD API key support, and containerized deployment.
 
-### **Smart Bike Monitoring (EK/BAC Project)**
-ESP32 system with speed, distance, and sensor telemetry. LCD + LED feedback and data reporting to a ThingsBoard dashboard.
+#### SmartBooker
+An intelligent facility management system bridging Outlook/Entra ID calendar planning with physical display screens.
+- **Tech:** Python, Flask, WebSockets, MSAL (Confidential Client Application), Microsoft Graph API.
+- **Key Features:** Low-latency real-time updates for PoE-powered Raspberry Pi display nodes and custom CRUD reservation logic.
 
-### **Traffic Light Controller**
-Microcontroller project handling accurate timing, button input, and state transitions using MicroPython.
+#### Smart Bike Telemetry System
+An OOP-based MicroPython IoT telemetry platform for real-time sensor tracking and cyclist safety.
+- **Tech:** MicroPython, ESP32, MQTT, ThingsBoard, REST APIs.
+- **Key Features:** Modular class architecture (`GPS`, `BatteryManager`, `BrakeLogic`), dynamic lighting based on sunset REST APIs, and multi-sensor integration (INA219, MPU, DHT11, LMT87).
+
+#### Edge Server Infrastructure
+A lightweight, secure micro-infrastructure setup running on a Raspberry Pi.
+- **Tech:** Raspberry Pi, Docker, Custom Nginx, Cloudflare Tunnels (Zero Trust).
+- **Key Features:** Securely exposes personal web services to the public internet without opening inbound firewall ports.
 
 ---
 
-## Current Focus
+### Connect with Me
 
-* Improving embedded systems design and testing
-* Strengthening networking and cybersecurity fundamentals
-* Expanding homelab automation and reliability
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-møldrup-pedersen-67285a174/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipmoldrup@gmail.com)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<PrestigeDK>&theme=react)
