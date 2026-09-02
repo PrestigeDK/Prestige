@@ -7,7 +7,7 @@
 
 ### Skills & Technologies
 
-![Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,docker,githubactions,linux,nginx,cloudflare,flask,raspberrypi&perline=6)
+![Skills](https://skillicons.dev/icons?i=python,bash,docker,githubactions,linux,nginx,cloudflare,flask,raspberrypi&perline=6)
 
 ---
 
