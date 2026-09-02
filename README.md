@@ -42,4 +42,7 @@ A lightweight, secure micro-infrastructure setup running on a Raspberry Pi.
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<PrestigeDK>&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrestigeDK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrestigeDK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
